@@ -1,1 +1,1 @@
-#Bot de discord para Core
+# Bot de discord para Core
